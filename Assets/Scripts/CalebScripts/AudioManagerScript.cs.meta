@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 1d744b59d9042454ca0b4dc72d1a7276
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_audioSource: {instanceID: 0}
+  - m_sfx: {instanceID: 0}
+  - bandaSonora: {instanceID: 0}
+  - musicaBaseCientifica: {instanceID: 0}
+  - musicaLobby: {instanceID: 0}
+  - musicaMJBuceo: {instanceID: 0}
+  - musicaMJMadera: {instanceID: 0}
+  - musicaMJFotos: {instanceID: 0}
+  - s_RecogerMadera: {instanceID: 0}
+  - s_Dialogo: {instanceID: 0}
+  - s_Salto: {instanceID: 0}
+  - s_RecogerPez: {instanceID: 0}
+  - s_SonidoBalaBuceo: {instanceID: 0}
+  - s_EnemigoMuere: {instanceID: 0}
+  - s_Muerte: {instanceID: 0}
+  - s_MenuPausa: {instanceID: 0}
+  - s_CambioEscena: {instanceID: 0}
+  - s_ClickFoto: {fileID: 8300000, guid: 2a3d3db2ddd28ec4b91405192b9b0aa2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

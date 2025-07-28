@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 49f96e3a6d80c1345a720690c77d86c6
+  - enabled: 1
+    path: Assets/Scenes/VideoInicio.unity
+    guid: dabea47c2de60d047bd4a297335222ec
+  - enabled: 1
+    path: Assets/Scenes/BaseCientifica.unity
+    guid: 9a3c4babd79f8497d8789c484b14e94f
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 2776afc961da28640a2249ccec1d2a86
+  - enabled: 1
+    path: Assets/Scenes/Mj_Buceo_Lu.unity
+    guid: 4be14df54b4ce47c79ea86a5d584b3f1
+  - enabled: 1
+    path: Assets/Scenes/MJ_madera.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MJ_Fotos.unity
+    guid: 77d0e6f04f22343f09dd792e949f7018
+  - enabled: 1
+    path: Assets/Scenes/VideoFinal.unity
+    guid: 455c0c505f781254d97bbdb6278bacb1
+  - enabled: 0
+    path: Assets/Scenes/bin/BaseCientificaFinal.unity
+    guid: 038e0d449c02f044b8f906826e1b3733
+  - enabled: 0
+    path: Assets/Scenes/bin/Mj_BuceoBin_Lu.unity
+    guid: c2d03f9c34a92435b90812a7a118db29
+  - enabled: 0
+    path: Assets/Scenes/bin/ScenesMireia/PruebasCaleb.unity
+    guid: b8317eeedb2e561419203341dd77b8d2
+  - enabled: 0
+    path: Assets/Scenes/Lobby.unity
+    guid: 2776afc961da28640a2249ccec1d2a86
+  - enabled: 0
+    path: Assets/Scenes/VideoInicio.unity
+    guid: dabea47c2de60d047bd4a297335222ec
+  - enabled: 0
+    path: Assets/Scenes/bin/ScenesMireia/Escena_fotos.unity
+    guid: 446acb77a1b7c684795cbfd95230bed1
+  m_configObjects: {}

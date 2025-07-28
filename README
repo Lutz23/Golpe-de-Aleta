@@ -1,0 +1,95 @@
+
+# **GOLPE DE ALETA**
+
+A **2D top-down pixel art videogame** where the player controls a penguin whose mission is to **convince the penguin community that climate change is real**. Built with **Unity** using **C#**, this game combines fun exploration mechanics with a meaningful message about the environment.
+
+---
+
+## **Game Overview**
+
+In *GOLPE DE ALETA*, you explore a pixel art Antarctic world as a brave penguin trying to raise awareness among your fellow penguins. You will interact with NPCs, complete tasks, and face challenges to convince the community of the urgent dangers of climate change.
+
+---
+
+## **Features**
+
+* **Top-down 2D gameplay** with fluid movement and interaction.
+* **Pixel art aesthetic**, with all assets created by the team.
+* **NPC dialogues and quests** to raise awareness about climate change.
+* **Original game assets**: characters, maps, and animations.
+* **Non-copyrighted music** and sound effects.
+
+---
+
+## **Tech Stack**
+
+* **Game Engine:** [Unity](https://unity.com/)
+* **Programming Language:** C#
+* **Artwork:** Custom-designed pixel art
+* **Audio:** Non-copyright music and sound effects
+
+
+## **Creators**
+
+### **Team**
+
+* **Creator & Head Programmer:** **Lutz23 (Lu)**
+* **Co-creators:**
+
+  * **Ping1324 (Caleb)** – Co-creator & Head Programmer
+  * **hjmfost** – Co-creator & Head Graphic Artist
+  * **Mirmota** – Co-creator, Programmer & Graphic Artist Assistant
+  * **mabag** – Tutor
+
+### **Roles**
+
+* **Head Programmers:**
+
+  * **Lutz23 (Lu)**
+  * **Ping1324 (Caleb)**
+
+
+* **Head Graphic Artist:**
+
+  * **hjmfost**
+
+* **Programmer assistant & Graphic Artist Assistant:**
+
+  * **Mirmota**
+
+---
+
+## **Art & Audio**
+
+* All **art assets, animations** (characters, tiles, backgrounds, UI) were **created by the development team**.
+* **Music and sound effects** are non-copyright and cleared for use.
+
+---
+
+## **Installation & Play**
+
+1. Clone or download the repository:
+
+   ```bash
+   git clone https://github.com/<your-username>/Golpe-de-Aleta.git
+   ```
+2. Open the project in **Unity (version 2022.x or later)**.
+3. Press **Play** in the Unity Editor or build for your target platform:
+
+   ```bash
+   File → Build Settings → Choose platform → Build
+   ```
+
+---
+
+## **Game Objective**
+
+Your goal is to talk to members of the penguin community, complete missions, and present evidence about the impact of climate change. Convince enough penguins to **change their minds and fight negationism** and take action before it’s too late.
+
+---
+
+## **License**
+
+All original game assets and animations are property of the creators.
+Music used in the game is free of copyright and cleared for distribution.
+
